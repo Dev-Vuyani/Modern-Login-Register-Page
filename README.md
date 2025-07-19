@@ -14,7 +14,6 @@ This project is a clean, modern login and registration page built with HTML, CSS
 - JavaScript<br>
 
 ## 🔗 Live Demo
-[👉 View Live on Netlify](https://your-project-link.netlify.app)
+[👉 View Live on Netlify](https://moderm-login-register-page.netlify.app/)
 
-## 📸 Preview
-![Login Page Preview](Login.png)
+
